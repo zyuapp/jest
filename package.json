@@ -5,7 +5,7 @@
   "devDependencies": {
     "@babel/core": "^7.27.4",
     "@babel/plugin-transform-modules-commonjs": "^7.27.1",
-    "@babel/preset-env": "^7.27.2",
+    "@babel/preset-env": "^7.28.5",
     "@babel/preset-react": "^7.27.1",
     "@babel/preset-typescript": "^7.27.1",
     "@babel/register": "^7.27.1",
@@ -81,7 +81,7 @@
     "tstyche": "^4.0.0",
     "tsx": "4.19.3",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.38.0",
+    "typescript-eslint": "^8.46.2",
     "webpack": "^5.68.0",
     "webpack-node-externals": "^3.0.0",
     "which": "^4.0.0"
